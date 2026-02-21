@@ -138,6 +138,8 @@ This is a **hotfix** - everything is in one file:
 
 ---
 
+Small change made check it out. # Ghayaz
+
 ## Bugs to Fix
 
 ### Bug #1
