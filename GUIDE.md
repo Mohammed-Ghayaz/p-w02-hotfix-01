@@ -5,7 +5,7 @@
 > Hotfixes simulate real production emergencies where you need to fix code quickly.
 
 ---
-
+# Small change made (Ghayaz)
 ## What You Need To Do (Summary)
 
 1. **Read the comments** at the top of `authMiddleware.ts` - they describe the problem
